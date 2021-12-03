@@ -7,6 +7,7 @@ Assorted terms we talk about that either of us remember to put here 😄!
 - **Else Statement**: a block of code that only gets run if a preceding `if` statement's block did not
 - **For Loop**: a block of code that can get run multiple times based on three portions
 - **Function**: a block of code logic that you can pass some values ("parameters") into, have it run with those values, and get some return value out of
+- **Git**: a software that lets you control changes ("commits") in the history of your project
 - **IDE** (Integrated Development Environment): a code editor with features such as debugging
 - **If Statement**: a condition along with a block of code, where the block only gets run if the condition is true
 - **Library**: a collection of code that you can opt into including into your program.
