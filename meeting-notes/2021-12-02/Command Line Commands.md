@@ -22,6 +22,8 @@ clear
 
 In a repository, as you change files, those changes will be marked as "untracked".
 
+To tell Git you care about the changes in some files, add them:
+
 ```shell
 git add -A
 ```
