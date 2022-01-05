@@ -12,6 +12,7 @@ Assorted terms we talk about that either of us remember to put here 😄!
 - **Git**: a software that lets you control changes ("commits") in the history of your project
 - **IDE** (Integrated Development Environment): a code editor with features such as debugging
 - **If Statement**: a condition along with a block of code, where the block only gets run if the condition is true
+- **Instantiate**: when you create a new instance of a class, struct, or other general container
 - **Library**: a collection of code that you can opt into including into your program.
 - **Main**: the code that gets run when someone starts your program
 - **Namespace**: a global place for your code and/or libraries to put related things.
