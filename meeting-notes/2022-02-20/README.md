@@ -35,21 +35,12 @@ An OOP / class-based approach might be to create a `CharVector` class.
 class CharVector
 {
 public:
-    // Initializes a new instance
-    // ? (my syntax is probably wrong)
-    CharVector()
-    {
-        // ? (my syntax is probably wrong)
-        CharVector::CharVector(0, 2);
-    }
 
     // Constructor overloads!
+    CharVector() : CharVector(0, 2) {}
+    CharVector(int size) : CharVector(size, size) {}
 
-    CharVector(int size)
-    {
-        CharVector::CharVector(size, size);
-    }
-
+    // Initializes a new instance
     CharVector(int size, int capacity)
     {
         // Not this.size, because this is a pointer.
